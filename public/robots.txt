@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://madjoylab.ru
+Host: https://speech-therapy.madjoylab.ru
 
 # Sitemaps
-Sitemap: https://madjoylab.ru/sitemap.xml
+Sitemap: https://speech-therapy.madjoylab.ru/sitemap.xml
