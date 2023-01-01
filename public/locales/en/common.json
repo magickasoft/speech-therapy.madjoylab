@@ -1,0 +1,102 @@
+{
+  "SEO": {
+    "title": "Madjoylab - we create IT teams for technology projects",
+    "description": "Madjoylab - IT recruitment, outsourcing, IT Executive Search and career consulting. We successfully select the best IT personnel of any level and specialization. Extensive base of candidates, guarantees.",
+    "keywords": "Digital agency, madjoylab studio, Website design, Application design, Application development, Website development, SMM services, Design school, Development school, madjoylab design, madjoylab dev"
+  },
+  "NotFoundPage": {
+    "title": "This page \ndoes not exist",
+    "text": "You followed the wrong link, or this page has been removed.",
+    "link": "Start from the home page"
+  },
+  "HomePage": {
+    "SEO": {
+      "title": "Madjoylab - IT recruitment, outsourcing, IT Executive Search and career consulting",
+      "description": "Madjoylab - IT recruitment, outsourcing, IT Executive Search and career consulting. We successfully select the best IT personnel of any level and specialization. Extensive base of candidates, guarantees.",
+      "keywords": "Digital agency, madjoylab studio, Website design, Application design, Application development, Website development, SMM services, Design school, Development school, madjoylab design, madjoylab dev",
+      "og" : {
+        "title": "Madjoylab - IT recruitment, outsourcing, IT Executive Search and career consulting",
+        "description": "Madjoylab - IT recruitment, outsourcing, IT Executive Search and career consulting. We successfully select the best IT personnel of any level and specialization. Extensive base of candidates, guarantees.",
+        "type": "website",
+        "locale": "en_EN",
+        "url": "http://madjoylab.ru/en/",
+        "site_name": "Mad Joy Lab",
+        "image": "/cover.png"  
+      },
+      "twitter" : {
+        "image": "/cover.png",
+        "title": "Madjoylab - IT recruitment, outsourcing, IT Executive Search and career consulting",
+        "description": "Madjoylab - IT recruitment, outsourcing, IT Executive Search and career consulting. We successfully select the best IT personnel of any level and specialization. Extensive base of candidates, guarantees.",
+        "card": "summary_large_image",
+        "url": "http://madjoylab.ru/en/"
+      }
+    },
+    "Intro": {
+      "title": "We create IT teams for technology projects"
+    },
+    "Services": {
+      "title": "Services",
+      "benefit": "Advantages",
+      "serviceLabel1": "Recruitment of IT personnel",
+      "serviceDesc1": "Closing individual positions, as well as selecting a team for a startup or department",
+      "serviceLabel2": "Outsourcing of developers and project teams",
+      "serviceDesc2": "Integration into the client's team",
+      "serviceLabel3": "IT Executive Search",
+      "serviceDesc3": "Selection of senior managers and rare IT specialists",
+      "serviceLabel4": "Career counseling",
+      "serviceDesc4": "We help beginners, experienced experts and those who want to change direction in achieving career goals"
+    },
+    "Benefits": {
+      "title": "Benefits of working with us",
+      "benefit1": "Individual approach and maximum immersion in the project",
+      "benefit2": "Support and advice 24/7",
+      "benefit3": "High speed of closing positions",
+      "benefit4": "Replacement guarantee during trial period",
+      "benefit5": "Assistance in the adaptation of candidates to a new workplace",
+      "benefit6": "Reduced IT staff costs"
+    },
+    "TechStacks": {
+      "title": "Technology"
+    },
+    "WorkWithUs": {
+      "title": "Work with us",
+      "text": "People are the most valuable asset of our business, so we create the most comfortable and productive environment for our employees. Become part of our team and work on a project that you will share with others with interest.",
+      "link": "Join the team"
+    },
+    "Clients": {
+      "title": "Clients about us",
+      "clientDesc1": "A cool team of professionals, quickly adapting to periodically changing customer requirements, performing the tasks in a quality and timely manner",
+      "clientExecutive1": "Kovtun Anastasia",
+      "clientPosition1": "Project Manager S7 Airlines",
+      "clientDesc2": "madjoylab promptly provided mobile and backend developers, which made it possible to strengthen the team and accelerate the development of projects in a targeted manner",
+      "clientExecutive2": "Oleg Borisov",
+      "clientPosition2": "Project Manager of the group of companies \"PIK\"",
+      "clientDesc3": "During the work on the project, the developers led by madjoylab showed themselves as a team of professionals who successfully solved all the tasks assigned to them and achieved the goal of the project",
+      "clientExecutive3": "Dmitry Butyanov",
+      "clientPosition3": "PBE Microsoft RUS",
+      "clientDesc4": "The guys from madjoylab developed a massive system that required extremely high technical expertise and allowed us to take the service on board aircraft to a new level.",
+      "clientExecutive4": "Alexander Lukash",
+      "clientPosition4": "Product owner S7 Airlines",
+      "clientDesc5": "The design solutions proposed by the team's specialists for the implementation of the required functionality made it possible to obtain a high-quality product with a convenient user interface. All assigned tasks were completed on time and in full.",
+      "clientExecutive5": "Belimov Alexander",
+      "clientPosition5": "Project Director at RostelecomLabs",
+      "clientDesc6": "During the cooperation on a number of projects, madjoylab has established itself as a reliable partner, always striving to solve the tasks in the most efficient way, to select the necessary resources.",
+      "clientExecutive6": "Kirill Makarkin",
+      "clientPosition6": "Head of digitalization projects Brusniki"
+    }
+  },
+  "Footer": {
+    "socialLink1": "linkedin",
+    "socialLink2": "instagram",
+    "socialLink3": "youtube",
+    "socialLink4": "tiktok",
+    "socialLink5": "vkontakte",
+    "socialLink6": "yandex.dzen",
+    "link1": "Home",
+    "link2": "Services",
+    "link3": "Advantages",
+    "link4": "Technology",
+    "link5": "Work with us",
+    "link6": "Clients about us"
+  }
+}
