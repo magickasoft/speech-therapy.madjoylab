@@ -11,7 +11,7 @@ export const theme = {
   formatterColor,
 };
 
-export const ibmplexsans400 = IBM_Plex_Sans({weight: '400'});
+export const ibmplexsans400 = IBM_Plex_Sans({weight: '400', subsets: ['latin']});
 
 export const GlobalStyle = props => (
   <Global
