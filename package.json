@@ -54,7 +54,7 @@
     "@commitlint/prompt-cli": "17.4.2",
     "eslint": "8.32.0",
     "eslint-config-next": "13.1.5",
-    "eslint-plugin-simple-import-sort": "9.0.0",
+    "eslint-plugin-simple-import-sort": "10.0.0",
     "husky": "^8.0.3",
     "picocolors": "^1.0.0",
     "prettier": "2.8.3",
